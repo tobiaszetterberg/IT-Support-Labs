@@ -2,7 +2,7 @@
 
 ## Scenario
 A remote user lost their VPN connection and could no longer access internal company resources.
-![VPN ticket](images/vpnsupportticket.png)
+![VPN ticket](images/VPN-Support-Ticket.png)
 
 ## Environment
 Simulated service desk environment.
