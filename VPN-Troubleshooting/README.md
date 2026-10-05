@@ -17,3 +17,4 @@ The user was working remotely and could not access internal resources.
 2. Opened Command Prompt.
 3. Ran: cmd
 ipconfig /flushdns
+
