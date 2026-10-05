@@ -15,6 +15,7 @@ The user was working remotely and could not access internal resources.
 ## Troubleshooting Steps
 1. Confirmed the issue was related to the VPN connection.
 2. Opened Command Prompt.
-3. Ran: cmd
-ipconfig /flushdns
+3. Ran:
 
+```cmd
+ipconfig /flushdns
