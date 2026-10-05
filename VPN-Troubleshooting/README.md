@@ -1,6 +1,6 @@
 # VPN Troubleshooting – Service Desk Lab
 
-**IMPORTANT NOTE**
+**IMPORTANT NOTE:**
 This project was simulated with a realistic helpdesk simulator. No private/secret information is shared in this project.
 
 ## Scenario & Ticket
