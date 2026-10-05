@@ -43,7 +43,7 @@ When i flushed the DNS, cache removes stored DNS records and then forces Windows
 
 ## What I Learned
 - How DNS caching can affect connectivity
-- How to use ipconfig /flushdns
+- How to use ```ipconfig /flushdns```
 - How VPN issues can affect access to internal resources
 - The importance of verifying the fix after troubleshooting
 
