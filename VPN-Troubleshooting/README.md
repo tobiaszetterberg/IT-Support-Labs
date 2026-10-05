@@ -1,5 +1,8 @@
 # VPN Troubleshooting – Service Desk Lab
 
+**IMPORTANT NOTE**
+This project was simulated with a realistic helpdesk simulator. No private/secret information is shared in this project.
+
 ## Scenario & Ticket
 A remote user lost their VPN connection and could no longer access internal company resources.
 
